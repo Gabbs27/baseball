@@ -1,0 +1,15 @@
+/Users/gabriel/baseball/obj/Debug/net6.0/baseball.csproj.AssemblyReference.cache
+/Users/gabriel/baseball/obj/Debug/net6.0/baseball.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriel/baseball/obj/Debug/net6.0/baseball.AssemblyInfoInputs.cache
+/Users/gabriel/baseball/obj/Debug/net6.0/baseball.AssemblyInfo.cs
+/Users/gabriel/baseball/obj/Debug/net6.0/baseball.csproj.CoreCompileInputs.cache
+/Users/gabriel/baseball/bin/Debug/net6.0/baseball
+/Users/gabriel/baseball/bin/Debug/net6.0/baseball.deps.json
+/Users/gabriel/baseball/bin/Debug/net6.0/baseball.runtimeconfig.json
+/Users/gabriel/baseball/bin/Debug/net6.0/baseball.dll
+/Users/gabriel/baseball/bin/Debug/net6.0/baseball.pdb
+/Users/gabriel/baseball/obj/Debug/net6.0/baseball.dll
+/Users/gabriel/baseball/obj/Debug/net6.0/refint/baseball.dll
+/Users/gabriel/baseball/obj/Debug/net6.0/baseball.pdb
+/Users/gabriel/baseball/obj/Debug/net6.0/baseball.genruntimeconfig.cache
+/Users/gabriel/baseball/obj/Debug/net6.0/ref/baseball.dll
